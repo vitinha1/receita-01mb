@@ -7,3 +7,18 @@
 body{
     background-color: #F3E5D7;
 }
+
+body > div {
+    background-color: #FFF;
+    max-width: 736px;
+    margin-inline: auto;
+}
+
+div img {
+    width: 100%;
+}
+
+h1, h2 {
+    font-family: 'Lora', serif ;
+}
+
